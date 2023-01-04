@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/build/
+/build/classes/java/main/
+/kafka-consumer/build/
+/kafka-consumer/build/classes/java/main/
+/kafka-producer/build/
+/kafka-producer/build/classes/java/main/
